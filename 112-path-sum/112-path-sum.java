@@ -15,7 +15,7 @@
  */
 class Solution {
     public boolean hasPathSum(TreeNode root, int targetSum) {
-    boolean res = false;
+   /* boolean res = false;
 
 		if(root != null) {
 			targetSum = targetSum - root.val;
@@ -27,5 +27,14 @@ class Solution {
 
 		return res;        
 	}
+}*/
+        //Recursive Solution
+        if(root == null)
+            return false;
+        else if(root != null && root.left == null && root.right == null && targetSum == root.val)
+            return true;           
+        else
+            return hasPathSum(root.left,targetSum - root.val) || hasPathSum(root.right,targetSum - root.val);
+    }
 }
     
