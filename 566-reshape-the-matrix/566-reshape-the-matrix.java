@@ -26,16 +26,16 @@ class Solution {
 }*/
 //2nd approach:
          int[][] m = new int[r][c]; // make new matrix of r*c.
-        int row=0;
-        int col=0;
-        if(mat.length*mat[0].length!=r*c) return mat;
-        for(int i=0; i<mat.length; i++){
+        int row=0;//indexed to zero
+        int col=0;//indexed to zero
+        if(mat.length*mat[0].length!=r*c) 
+            return mat;
+        for(int i=0; i<mat.length; i++){ //loop for original matrix
             for(int j=0; j<mat[0].length; j++){
                 
-             m[row][col]=mat[i][j]; // here we are starting from 00 position and we want to increase horizontally in the same row that's why we are increasing column only not row. but at some point we will reach to the last column then we should go to next row and then again go to horizontally.
+             m[row][col]=mat[i][j]; 
                 col++;
                 if(col==c){
-// here when we reach to the last column of first row then we will increase row by 1 and set our column to 0 so that we can repeat the same process.
                      row++;
                      col=0;
                 }
@@ -43,6 +43,5 @@ class Solution {
             }
         }
        return m; 
-        // by this process we can traverse our matrix by row by row 
-    }
+}
 }
