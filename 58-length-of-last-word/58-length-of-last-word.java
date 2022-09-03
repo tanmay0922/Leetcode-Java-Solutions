@@ -20,3 +20,4 @@ class Solution {
         return n-1-i;
     }
 }
+        
