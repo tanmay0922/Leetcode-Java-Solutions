@@ -11,8 +11,10 @@ class Solution {
 	StringBuilder sb = new StringBuilder();
 	while ( i >= 0 || j >= 0 ) {
 		int sum = 0;
-		if ( i >= 0 ) sum += num1.charAt(i--) - '0';
-		if ( j >= 0 ) sum += num2.charAt(j--) - '0';
+		if ( i >= 0 ) 
+            sum += num1.charAt(i--) - '0';
+		if ( j >= 0 ) 
+            sum += num2.charAt(j--) - '0';
 		sum += carry;
 
 		carry = sum / 10;
