@@ -9,27 +9,32 @@
  */
 public class Codec {
     public String serialize(TreeNode root) {
-        if (root == null) return "";
+        //base Case
+        if (root == null) 
+            return "";
+        //Queue usage
         Queue<TreeNode> q = new LinkedList<>();
-        StringBuilder res = new StringBuilder();
-        q.add(root);
-        while (!q.isEmpty()) {
-            TreeNode node = q.poll();
-            if (node == null) {
-                res.append("n ");
+        StringBuilder res = new StringBuilder();//String Builder(Used bcz it is mutuable)
+        q.add(root);//adds element at the end
+        while (!q.isEmpty()) {//loop's  condition if the queue is empty or not
+            TreeNode node = q.poll(); //removes element from the end
+            if (node == null) { //condition 
+                res.append("n "); //used to append or add data in a file(appended n as a null value into the queue)
                 continue;
             }
             res.append(node.val + " ");
-            q.add(node.left);
+            q.add(node.left); //adding value of left node as well as right node too
             q.add(node.right);
         }
-        return res.toString();
+        return res.toString(); //returning String
     }
-
+//Serialize function (I Will give it a root and it will pass me a String!)
     public TreeNode deserialize(String data) {
-        if (data == "") return null;
-        Queue<TreeNode> q = new LinkedList<>();
-        String[] values = data.split(" ");
+        //Base Case
+        if (data == "") 
+            return null;
+        Queue<TreeNode> q = new LinkedList<>(); 
+        String[] values = data.split(" ");//array will be created using a split function
         TreeNode root = new TreeNode(Integer.parseInt(values[0]));
         q.add(root);
         for (int i = 1; i < values.length; i++) {
@@ -48,6 +53,7 @@ public class Codec {
         return root;
     }
 }
+//Deseralize Function-returns back the string from the root
 
 // Your Codec object will be instantiated and called as such:
 // Codec ser = new Codec();
