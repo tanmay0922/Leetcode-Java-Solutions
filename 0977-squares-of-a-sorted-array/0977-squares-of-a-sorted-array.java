@@ -9,19 +9,19 @@ class Solution {
 //         Arrays.sort(nums);
        
             
-        int ans[]= new int[nums.length];
+        int ans[]= new int[nums.length];//ans array is created same as num array length
             
         int l=0;
-        int r = ans.length-1;
+        int r = ans.length-1;  //r stores one less element
         int index = nums.length-1;
         
-        while(l<=r)
+        while(l<=r) //0<=4(eg)
         {
-            int val1 = nums[l]*nums[l];
-            int val2 = nums[r]*nums[r];
+            int val1 = nums[l]*nums[l];  //square
+            int val2 = nums[r]*nums[r];  //square
             if(val1>val2)
             {
-                ans[index] = val1;
+                ans[index] = val1;   
                 l++;
             }
             else
