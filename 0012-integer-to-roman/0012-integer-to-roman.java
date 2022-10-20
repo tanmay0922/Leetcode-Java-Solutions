@@ -1,6 +1,7 @@
 class Solution {
     public String intToRoman(int num) {
-       String romanNumeral = "";
+       String romanNumeral = "";//null sting
+        //Condition after subtracting from the larger one!
         while (num >= 1000) {
             romanNumeral += "M";
             num -= 1000;
