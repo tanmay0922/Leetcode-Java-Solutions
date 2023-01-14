@@ -10,7 +10,7 @@ class Solution {
         int count=0;
         for(List<String> item:items){
             if(item.get(index).equals(ruleValue)){
-                count+=1;
+                count++;
             }
         }
         return count;
