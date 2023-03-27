@@ -4,7 +4,7 @@ class Solution {
         int n = grid[0].length;
         
         // Create a dp table to store the minimum sum path to each cell
-        int[][] dp = new int[m][n];
+        int[][] dp = new int[m][n]; //m*n
         dp[0][0] = grid[0][0];
         
         // Fill the first row
