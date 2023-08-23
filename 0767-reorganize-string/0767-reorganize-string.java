@@ -1,5 +1,4 @@
-
-      class Solution {
+ class Solution {
     public String reorganizeString(String s) {
         var charCounts = new int[26];
         for (char c : s.toCharArray()) {
