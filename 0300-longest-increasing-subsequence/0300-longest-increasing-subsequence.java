@@ -2,7 +2,7 @@ class Solution {
     public int lengthOfLIS(int[] nums) {
         
          int dp[] = new int[nums.length];
-        int max = 0,omax=0;
+         int max = 0,omax=0;
         for (int i = 0; i < nums.length; i++) {
             for (int j = 0; j < i; j++) {
                 if (nums[i] > nums[j]) {
