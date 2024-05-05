@@ -6,11 +6,11 @@
  *     ListNode(int x) { val = x; }
  * }
  */
-//copy the contents to the next node and delete the node
 class Solution {
     public void deleteNode(ListNode node) {
-         ListNode next=node.next; //next node
-         node.val=next.val; //val copied to next node
-        node.next=next.next;  //Pointed to next to next node(null one)
+        // Overwrite data of next node on current node.
+        node.val = node.next.val;
+        // Make current node point to next of next node.
+        node.next = node.next.next;
     }
 }
