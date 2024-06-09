@@ -1,19 +1,21 @@
 class Solution {
     public int subarraysDivByK(int[] nums, int k) {
-        Map<Integer,Integer> map=new HashMap<>();
-        int rem;
-        for(int i=0;i<nums.length;i++){
-            if(i>0)
-                nums[i]+=nums[i-1];
-            rem=(nums[i]%k+k)%k;
-            map.put(rem,map.getOrDefault(rem,0)+1);
-            
+        int n = nums.length;
+        int prefixMod = 0, result = 0;
+
+        // There are k mod groups 0...k-1.
+        int[] modGroups = new int[k];
+        modGroups[0] = 1;
+
+        for (int num: nums) {
+            // Take modulo twice to avoid negative remainders.
+            prefixMod = (prefixMod + num % k + k) % k;
+            // Add the count of subarrays that have the same remainder as the current
+            // one to cancel out the remainders.
+            result += modGroups[prefixMod];
+            modGroups[prefixMod]++;
         }
-        int r=map.getOrDefault(0, 0);
-        for(int frequency:map.values()){
-            r+=frequency*(frequency-1)/2;
-            
-        }
-        return r;
+
+        return result;
     }
 }
