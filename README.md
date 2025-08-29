@@ -23,4 +23,12 @@ Solution to Leetcode problems in Java
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0002-add-two-numbers) |
+## Array
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0027-remove-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
