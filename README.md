@@ -15,6 +15,7 @@ Solution to Leetcode problems in Java
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0002-add-two-numbers) |
+| [0146-lru-cache](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0146-lru-cache) |
 ## Math
 |  |
 | ------- |
@@ -31,4 +32,16 @@ Solution to Leetcode problems in Java
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0027-remove-element) |
+## Hash Table
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
