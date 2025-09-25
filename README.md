@@ -11,6 +11,7 @@ Solution to Leetcode problems in Java
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0072-edit-distance) |
+| [0120-triangle](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0120-triangle) |
 ## Linked List
 |  |
 | ------- |
@@ -28,6 +29,7 @@ Solution to Leetcode problems in Java
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0027-remove-element) |
+| [0120-triangle](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0120-triangle) |
 | [0347-top-k-frequent-elements](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
