@@ -29,6 +29,7 @@ Solution to Leetcode problems in Java
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0027-remove-element) |
 | [0120-triangle](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0120-triangle) |
 | [0347-top-k-frequent-elements](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -36,6 +37,7 @@ Solution to Leetcode problems in Java
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
@@ -57,6 +59,7 @@ Solution to Leetcode problems in Java
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0016-3sum-closest) |
 | [0347-top-k-frequent-elements](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
