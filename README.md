@@ -21,6 +21,7 @@ Solution to Leetcode problems in Java
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0002-add-two-numbers) |
+| [0830-largest-triangle-area](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0830-largest-triangle-area) |
 ## Recursion
 |  |
 | ------- |
@@ -31,6 +32,7 @@ Solution to Leetcode problems in Java
 | [0027-remove-element](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0027-remove-element) |
 | [0120-triangle](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0120-triangle) |
 | [0347-top-k-frequent-elements](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0830-largest-triangle-area](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0830-largest-triangle-area) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,4 +74,8 @@ Solution to Leetcode problems in Java
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
