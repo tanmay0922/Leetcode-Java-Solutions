@@ -40,6 +40,7 @@ Solution to Leetcode problems in Java
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@ Solution to Leetcode problems in Java
 | [0146-lru-cache](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Design
 |  |
 | ------- |
@@ -72,6 +74,7 @@ Solution to Leetcode problems in Java
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -100,4 +103,8 @@ Solution to Leetcode problems in Java
 |  |
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+## Sliding Window
+|  |
+| ------- |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 <!---LeetCode Topics End-->
