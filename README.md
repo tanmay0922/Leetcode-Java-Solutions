@@ -39,6 +39,7 @@ Solution to Leetcode problems in Java
 | [0830-largest-triangle-area](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0830-largest-triangle-area) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -106,9 +107,23 @@ Solution to Leetcode problems in Java
 |  |
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Sliding Window
 |  |
 | ------- |
+| [2618-maximize-the-minimum-powered-city](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+## Binary Search
+|  |
+| ------- |
+| [2618-maximize-the-minimum-powered-city](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
+## Queue
+|  |
+| ------- |
+| [2618-maximize-the-minimum-powered-city](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
+## Prefix Sum
+|  |
+| ------- |
+| [2618-maximize-the-minimum-powered-city](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 <!---LeetCode Topics End-->
