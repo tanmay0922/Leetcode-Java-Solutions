@@ -14,6 +14,7 @@ Solution to Leetcode problems in Java
 | [0072-edit-distance](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0120-triangle) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Linked List
 |  |
 | ------- |
@@ -126,4 +127,12 @@ Solution to Leetcode problems in Java
 |  |
 | ------- |
 | [2618-maximize-the-minimum-powered-city](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+## Memoization
+|  |
+| ------- |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 <!---LeetCode Topics End-->
