@@ -25,6 +25,7 @@ Solution to Leetcode problems in Java
 | ------- |
 | [0002-add-two-numbers](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0002-add-two-numbers) |
 | [0830-largest-triangle-area](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0830-largest-triangle-area) |
+| [2288-count-operations-to-obtain-zero](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Recursion
 |  |
@@ -103,6 +104,7 @@ Solution to Leetcode problems in Java
 ## Simulation
 |  |
 | ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Greedy
 |  |
