@@ -9,6 +9,7 @@ Solution to Leetcode problems in Java
 | [0072-edit-distance](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0072-edit-distance) |
 | [0474-ones-and-zeroes](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0474-ones-and-zeroes) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,6 +93,7 @@ Solution to Leetcode problems in Java
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Quickselect
 |  |
 | ------- |
@@ -114,6 +116,7 @@ Solution to Leetcode problems in Java
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Sliding Window
 |  |
 | ------- |
