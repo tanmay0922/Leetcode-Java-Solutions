@@ -146,4 +146,20 @@ Solution to Leetcode problems in Java
 |  |
 | ------- |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+## Tree
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
