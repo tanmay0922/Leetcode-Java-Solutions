@@ -1,45 +1,44 @@
+import java.util.*;
+
 class Solution {
+    int[] nums1, nums2;
     int[][] memo;
-    
-    public int dp(int i, int j, int[] nums1, int[] nums2) {
-        if (i == nums1.length || j == nums2.length) {
-            return 0;
-        }
-        
-        if (memo[i][j] != 0) {
+    int n, m;
+    final int NEG_INF = (int) -1e9;
+
+    int dp(int i, int j) {
+        if (i == n || j == m)
+            return NEG_INF;
+
+        if (memo[i][j] != Integer.MIN_VALUE)
             return memo[i][j];
-        }
-        
-        int use = nums1[i] * nums2[j] + dp(i + 1, j + 1, nums1, nums2);
-        memo[i][j] = Math.max(use, Math.max(dp(i + 1, j, nums1, nums2), dp(i, j + 1, nums1, nums2)));
-        return memo[i][j];
+
+        int take = nums1[i] * nums2[j];
+
+        int res = Math.max(
+            Math.max(
+                take + dp(i + 1, j + 1), // take both and continue
+                take                    // take and end here
+            ),
+            Math.max(
+                dp(i + 1, j),           // skip nums1[i]
+                dp(i, j + 1)            // skip nums2[j]
+            )
+        );
+
+        return memo[i][j] = res;
     }
-    
-    public int maxDotProduct(int[] nums1, int[] nums2) {
-        int firstMax = Integer.MIN_VALUE;
-        int secondMax = Integer.MIN_VALUE;
-        int firstMin = Integer.MAX_VALUE;
-        int secondMin = Integer.MAX_VALUE;
-        
-        for (int num: nums1) {
-            firstMax = Math.max(firstMax, num);
-            firstMin = Math.min(firstMin, num);
-        }
-        
-        for (int num: nums2) {
-            secondMax = Math.max(secondMax, num);
-            secondMin = Math.min(secondMin, num);
-        }
-        
-        if (firstMax < 0 && secondMin > 0) {
-            return firstMax * secondMin;
-        }
-        
-        if (firstMin > 0 && secondMax < 0) {
-            return firstMin * secondMax;
-        }
-        
-        memo = new int[nums1.length][nums2.length];
-        return dp(0, 0, nums1, nums2);
+
+    public int maxDotProduct(int[] a, int[] b) {
+        nums1 = a;
+        nums2 = b;
+        n = nums1.length;
+        m = nums2.length;
+
+        memo = new int[n][m];
+        for (int i = 0; i < n; i++)
+            Arrays.fill(memo[i], Integer.MIN_VALUE);
+
+        return dp(0, 0);
     }
 }
