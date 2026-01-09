@@ -62,6 +62,7 @@ Solution to Leetcode problems in Java
 | ------- |
 | [0146-lru-cache](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -151,17 +152,21 @@ Solution to Leetcode problems in Java
 ## Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
