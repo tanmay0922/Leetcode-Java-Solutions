@@ -29,6 +29,7 @@ Solution to Leetcode problems in Java
 | ------- |
 | [0002-add-two-numbers](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0002-add-two-numbers) |
 | [0830-largest-triangle-area](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0830-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [2288-count-operations-to-obtain-zero](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Recursion
@@ -44,6 +45,7 @@ Solution to Leetcode problems in Java
 | [0347-top-k-frequent-elements](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0474-ones-and-zeroes](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0830-largest-triangle-area](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0830-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -106,6 +108,7 @@ Solution to Leetcode problems in Java
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0830-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 ## Matrix
 |  |
 | ------- |
