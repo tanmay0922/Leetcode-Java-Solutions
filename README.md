@@ -31,6 +31,7 @@ Solution to Leetcode problems in Java
 | [0830-largest-triangle-area](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0830-largest-triangle-area) |
 | [1266-minimum-time-visiting-all-points](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [2288-count-operations-to-obtain-zero](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Recursion
 |  |
@@ -51,6 +52,7 @@ Solution to Leetcode problems in Java
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/2625-increment-submatrices-by-one) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
