@@ -9,6 +9,7 @@ Solution to Leetcode problems in Java
 | [0072-edit-distance](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0072-edit-distance) |
 | [0474-ones-and-zeroes](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0474-ones-and-zeroes) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Dynamic Programming
 |  |
@@ -49,6 +50,7 @@ Solution to Leetcode problems in Java
 | [1266-minimum-time-visiting-all-points](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/2625-increment-submatrices-by-one) |
