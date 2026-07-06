@@ -48,6 +48,7 @@ Solution to Leetcode problems in Java
 | [0474-ones-and-zeroes](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0830-largest-triangle-area](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0830-largest-triangle-area) |
 | [1266-minimum-time-visiting-all-points](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1288-remove-covered-intervals](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -89,6 +90,7 @@ Solution to Leetcode problems in Java
 | ------- |
 | [0016-3sum-closest](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0016-3sum-closest) |
 | [0347-top-k-frequent-elements](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1288-remove-covered-intervals](https://github.com/tanmay0922/Leetcode-Java-Solutions/tree/master/1288-remove-covered-intervals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
